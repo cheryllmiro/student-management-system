@@ -65,8 +65,6 @@ A web application for managing student records built with Laravel (backend API) 
 ## Features
 - ✅ Add, edit, delete students
 - ✅ Soft delete with restore functionality
-- ✅ Search and filter students
-- ✅ Responsive Bootstrap UI
 
 ## Tech Stack
 - **Backend:** Laravel 11, PHP 8.2
