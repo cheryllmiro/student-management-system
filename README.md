@@ -58,23 +58,24 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-# Student Management System
+# 🎓 Student Management System
 
-A web application for managing student records built with Laravel (backend API) and Vue.js (frontend)
+A complete web application for managing student records built with Laravel (backend API) and Vue.js (frontend).
 
-## Features
-- ✅ Add, edit, delete students
-- ✅ Soft delete with restore functionality
-- ✅ Search and filter students
-- ✅ Responsive Bootstrap UI
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Tech Stack
-- **Backend:** Laravel 11, PHP 8.2
-- **Frontend:** Vue.js 3, Pinia, Vue Router
-- **Database:** MySQL
-- **UI:** Bootstrap 5, Font Awesome
+## ✨ Features
+- ✅ **CRUD Operations** - Create, Read, Update, Delete students
+- ✅ **Soft Delete** - Delete with restore functionality
 
-## Installation
+
+
+## 📸 Screenshots
+| Students List | Add Student | Deleted Students |
+
+## 🚀 Quick Start
 
 ### Prerequisites
 - PHP 8.2+
@@ -82,8 +83,8 @@ A web application for managing student records built with Laravel (backend API) 
 - Node.js 18+
 - MySQL 8.0+
 
-### Setup
-1. Clone the repository:
+### Installation
+1. **Clone repository**
    ```bash
-   git clone https://github.com/your-username/student-management-system.git
+   git clone https://github.com/cheryllmiro/student-management-system.git
    cd student-management-system
