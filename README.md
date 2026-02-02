@@ -62,9 +62,15 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 A complete web application for managing student records built with Laravel (backend API) and Vue.js (frontend).
 
+<<<<<<< HEAD
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+=======
+## Features
+- ✅ Add, edit, delete students
+- ✅ Soft delete with restore functionality
+>>>>>>> 08cc03f6b364360017cd36bfda55039c6751be41
 
 ## ✨ Features
 - ✅ **CRUD Operations** - Create, Read, Update, Delete students
@@ -86,5 +92,10 @@ A complete web application for managing student records built with Laravel (back
 ### Installation
 1. **Clone repository**
    ```bash
+<<<<<<< HEAD
    git clone https://github.com/cheryllmiro/student-management-system.git
    cd student-management-system
+=======
+   git clone https://github.com/your-username/student-management-system.git
+   cd student-management-system
+>>>>>>> 08cc03f6b364360017cd36bfda55039c6751be41
