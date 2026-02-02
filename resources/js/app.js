@@ -3,6 +3,11 @@ import { createPinia } from 'pinia';
 import router from './router';
 import App from './components/App.vue';
 import axios from 'axios';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+import '@fortawesome/fontawesome-free/css/all.min.css';
+import './resources/css/app.css';
+
 
 // Configure axios
 axios.defaults.baseURL = 'http://127.0.0.1:8000';
